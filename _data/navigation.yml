@@ -17,8 +17,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -34,8 +33,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /Research/
+    
+  - title: "Portfolio"
+    url: /portfolio/
+  # - title: "Research"
+  #   url: /Research/
 
   - title: "Interests"
     url: /Interests/
