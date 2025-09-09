@@ -17,4 +17,5 @@ Under a common protocol, all methods achieve low $L_2$ errors ($10^{-6}$-$10^{-9
 We provide practical guidelines for method selection and outline the following extensions: time-dependent formulations for DRM and WAN, adaptive residual-driven sampling, parallel multi-state training, and neural domain decomposition. These results support physics-guided neural solvers as credible, scalable tools for solving complex PDEs. 
 
 👉 [View on GitHub](https://github.com/JiakangC/Neural-Network-Based-PDE-Solver.git)
+
 📄  [Read Full Dissertation (PDF)](/files/msc-dissertation.pdf)
