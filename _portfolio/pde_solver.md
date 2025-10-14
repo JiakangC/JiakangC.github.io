@@ -18,4 +18,4 @@ We provide practical guidelines for method selection and outline the following e
 
 👉 [View on GitHub](https://github.com/JiakangC/Neural-Network-Based-PDE-Solver.git)
 
-📄  [Read Full Dissertation (PDF)](/files/msc-dissertation.pdf)
+📄  [Read Full Dissertation (PDF)](http://arxiv.org/abs/2510.09693)
